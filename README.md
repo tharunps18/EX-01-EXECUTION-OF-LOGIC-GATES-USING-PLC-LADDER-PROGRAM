@@ -105,7 +105,14 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 <img width="2560" height="1600" alt="Screenshot 2026-10-26 095807" src="https://github.com/user-attachments/assets/eaf0bc1a-b649-4664-b33d-9ce0c6a2e6b9" />
 
-<img width="2560" height="1600" alt="Screenshot 2026-10-26 095826" src="https://github.com/user-attachments/assets/e6682f1d-0430-4e53-a1aa-8d92df1f8abc" />
+<img width="2560" height="1600" alt="Screenshot 2026-10-26 102038" src="https://github.com/user-attachments/assets/e8815769-c16a-4315-8f26-0cb74bed6d5e" />
+
+<img width="2560" height="1600" alt="Screenshot 2026-10-26 102107" src="https://github.com/user-attachments/assets/e4316811-0435-4617-8829-cc5c82a97327" />
+
+<img width="2560" height="1600" alt="Screenshot 2026-10-26 102126" src="https://github.com/user-attachments/assets/f96b0426-cec9-4956-aea7-da8dc18c2e11" />
+
+<img width="2560" height="1600" alt="Screenshot 2026-10-26 102157" src="https://github.com/user-attachments/assets/145fb8db-4247-4be4-8c90-00374d7819c3" />
+
 
 # Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
